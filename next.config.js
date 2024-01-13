@@ -4,7 +4,7 @@ const nextConfig = {
         remotePatterns: [
             {
                 protocol: 'https',
-                hostname: 'djkhyeelinbdqmntpfkp.supabase.co'
+                hostname: 'photoshop-app-xt7h.vercel.app'
             }
         ]
     }
